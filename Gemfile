@@ -1,11 +1,12 @@
 source 'https://rubygems.org'
 
 gem 'faker'
-gem 'mini_magick',             '3.8.0'
-gem 'sqlite3',     '1.3.9'
-gem 'byebug',      '3.4.0'
+gem 'minitest-reporters'
+gem 'mini_magick'
+gem 'sqlite3'
+gem 'byebug'
 gem 'poltergeist'
 gem 'capybara'
-gem 'cucumber-rails', require: false
+gem 'cucumber'
 gem 'guard-cucumber'
 

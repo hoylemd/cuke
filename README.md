@@ -4,7 +4,7 @@ Requirements:
 git
 ruby
 bundle
-poltergeist (?)
+phantomjs: Mac: `brew install phantomjs`
 firefox (?)
 
 Installation:
