@@ -10,3 +10,6 @@ firefox (?)
 Installation:
 clone this
 run `bundle install`
+
+Run:
+bundle exec cucumber
