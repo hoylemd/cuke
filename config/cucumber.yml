@@ -1,0 +1,2 @@
+---
+default: BASE_URL='http://www.michaelhoyle.com' API_URL='http://flasklocal:5000'
