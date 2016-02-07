@@ -9,4 +9,5 @@ gem 'poltergeist'
 gem 'capybara'
 gem 'cucumber'
 gem 'guard-cucumber'
+gem 'httparty'
 

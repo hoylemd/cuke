@@ -38,7 +38,11 @@ GEM
       cucumber (~> 2.0)
       guard-compat (~> 1.0)
       nenv (~> 0.1)
+    httparty (0.13.7)
+      json (~> 1.8)
+      multi_xml (>= 0.5.2)
     i18n (0.7.0)
+    json (1.8.3)
     mime-types (3.0)
       mime-types-data (~> 3.2015)
     mime-types-data (3.2015.1120)
@@ -53,6 +57,7 @@ GEM
       ruby-progressbar
     multi_json (1.11.2)
     multi_test (0.1.2)
+    multi_xml (0.5.5)
     nenv (0.2.0)
     nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
@@ -83,6 +88,7 @@ DEPENDENCIES
   cucumber
   faker
   guard-cucumber
+  httparty
   mini_magick
   minitest-reporters
   poltergeist
